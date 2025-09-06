@@ -3,6 +3,12 @@
 [![Website](https://img.shields.io/badge/website-vaishnavmohit.github.io-0A66C2?logo=google-chrome&logoColor=white)](https://vaishnavmohit.github.io/)
 [![Company](https://img.shields.io/badge/Kimova%20AI-Cybersecurity%20&%20Compliance-1e88e5)](https://kimova.ai/)
 
+## Contribution Summary
+<!-- LIFETIME_CONTRIBS_START -->
+Computing lifetime contribution stats...
+(Will populate after first workflow run)
+<!-- LIFETIME_CONTRIBS_END -->
+
 ---
 **AI Entrepreneur | Researcher | Co-founder @ Kimova AI**
 
